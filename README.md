@@ -1,4 +1,33 @@
-## Hi, I am  Sodiq Adewole aka Karayel.eth 👋
+## Hi, I am  Sodiq Adewole, aka Karayel 🐴
+
+## About Karayel
+
+ I am a smart contract developer and a security researcher. I'm passionate about buiding secure and efficient blockchain applications. I focus on Dapps and DeFi 
+
+ I participate in audit contests different platforms like [codearena](https://code4rena.com/) and [sherlock](https://audits.sherlock.xyz/contests)
+
+ Twitter/X: [@karayel.eth](https://x.com/0xkarayel)
+ 
+ Discord: [@karayel3976](https://x.com/0xkarayel)
+
+ Telegram: [@Karayel.eth](https://telegram.org/)
+
+
+## Audit Works
+
+## INCOMING
+
+
+
+
+
+ 
+
+
+ 
+
+
+
 
 <!--
 **0xKarayel/0xKarayel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
